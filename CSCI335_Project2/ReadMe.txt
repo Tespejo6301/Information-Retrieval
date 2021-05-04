@@ -1,4 +1,4 @@
-Project 2
+Project 1 Phase 2
 In this project there are 6 java files
 file.java 								// will be use to storing all the filename and content use for inverted index
 flag.java 												//class that parse commandline argument
